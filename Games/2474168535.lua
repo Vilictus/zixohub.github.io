@@ -1,1 +1,1 @@
-print('[Zixo Hub]: Westbound Gui has been Loaded.')
+print(tick()-current_time)
